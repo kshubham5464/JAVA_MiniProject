@@ -5,9 +5,9 @@ The Online Banking System is a Java Swing-based GUI application that provides a 
 
 ## Team Members
 This project was developed by a dedicated team:
-- **Shubham Kumar**: Lead Developer and Project Coordinator
-- **Shyama**: UI/UX Designer and Frontend Developer
-- **Komal Jha**: Backend Developer and Tester
+- **Shubham Kumar 249273**: Lead Developer and Project Coordinator
+- **Shyama - 249293**: UI/UX Designer and Frontend Developer
+- **Komal Jha - 249271**: Backend Developer and Tester
 
 ## Features
 - **Account Management**: Create new accounts with validation, secure login with SHA-256 hashed passwords.
