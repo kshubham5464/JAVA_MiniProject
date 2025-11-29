@@ -3,6 +3,9 @@
 ## Project Description
 The Online Banking System is a Java Swing-based GUI application that provides a comprehensive banking experience. Users can create accounts, securely log in, perform transactions such as deposits, withdrawals, and transfers, view statements, apply interest, and manage account settings. Data is persisted using CSV files for accounts and transactions.
 
+## Screenshots
+![Online Banking System Screenshot](Screenshots/Screenshot%202025-11-29%20171314.png)
+
 ## Team Members
 This project was developed by a dedicated team:
 - **Shubham Kumar 249273**: Lead Developer and Project Coordinator
